@@ -21,10 +21,14 @@ See [README.md](./400/README.md)
 
 See [README.md](./500/README.md)
 
-## 600 - Test-driven Design
+## 600 - Proof of Concept
 
 See [README.md](./600/README.md)
 
-## 700 - Feedback for Improvements
+## 700 - Test-driven Design
 
 See [README.md](./700/README.md)
+
+## 800 - Feedback for Improvements
+
+See [README.md](./800/README.md)
